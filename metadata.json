@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Cache Replacement System (ACRS)",
+  "description": "Interactive educational cache memory simulator implementing FIFO, LRU, LFU, and ARC with rule-based dynamic workload analysis and live performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
